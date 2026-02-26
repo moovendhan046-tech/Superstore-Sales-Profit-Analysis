@@ -147,10 +147,10 @@ Time-series trend analysis
 
 📁 Repository Contents
 
-SQL Query Files
-Cleaned CSV Datasets
-Power BI (.pbix) Dashboard File
-README Documentation
+SQL Query Files, 
+Cleaned CSV Datasets,
+Power BI (.pbix) Dashboard File,
+README Documentation.
 
 
 🚀 Project Positioning
